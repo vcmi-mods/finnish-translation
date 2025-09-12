@@ -1,0 +1,12 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "finnish",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-finnish-ai/campaigns.json"
+	]
+}
