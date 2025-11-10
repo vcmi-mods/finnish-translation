@@ -7,6 +7,9 @@
 	"language" : "finnish",
 	"modType" : "Translation",
 	"translations" : [
-		"config/vcmi-finnish-ai/campaigns.json"
+		"config/vcmi-finnish-ai/campaigns.json",
+		"config/vcmi-finnish-ai/game.json",
+		"config/vcmi-finnish-ai/maps.json",
+		"config/vcmi-finnish-ai/chronicles.json"
 	]
 }
