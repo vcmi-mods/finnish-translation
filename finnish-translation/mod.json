@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3" : [ "Restore custom fonts to avoid conflict with broken H3 complete fonts and reduce width to help some tranlations" ],
 		"1.0.2" : [ "A lot of changes, remove built-in custom font as no longer needed" ],
 		"1.0.1" : [ "png images" ],
 		"1.0.0" : [ "Initial release based on https://vesa.piittinen.name/suomeksi/heroes-3/" ]
