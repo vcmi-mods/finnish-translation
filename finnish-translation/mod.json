@@ -28,6 +28,7 @@
 	"translations" : [
 		"config/vcmi-finnish/game.json",
 		"config/vcmi-finnish/maps.json",
+		"config/vcmi-finnish/chronicles.json",
 		"config/vcmi-finnish/campaigns.json"
 	]
 }
